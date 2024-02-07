@@ -1,2 +1,2 @@
-# Redstore
-E-commerce 
+# Redstore app
+E-commerce website.
